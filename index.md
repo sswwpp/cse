@@ -1,5 +1,7 @@
 <p align="center">
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+  <a href="https://octodex.github.com/images/stormtroopocat.jpg">
+    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+  </a>
 
   <h3 align="center">Hello</h3>
 
