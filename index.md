@@ -1,26 +1,12 @@
-<p align="center">
-  <a href="https://octodex.github.com/images/stormtroopocat.jpg">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-  </a>
-
-  <h3 align="center">Hello</h3>
-
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
-
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+## Hi
 
 ## Table of contents
+- [Hi](#hi)
 - [Table of contents](#table-of-contents)
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
 - [Creator](#creator)
 
 
@@ -28,36 +14,49 @@
 
 Some text
 
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+> Instruction 1
+> Instruction 2
+> Instruction 3
+
 - Instruction 1
 - Instruction 2
 - Instruction 3
 
+1. Instruction 1
+2. Instruction 2
+3. Instruction 3
+
+- [x] Finish the assignment
+- [ ] Add meaningful content :tada:
 ## Status
 
-Here goes all the budgets
+Sleeping
 
 ## What's included
 
-Some text
+some files
 
-```text
-folder1/
-└── folder2/
-    ├── folder3/
+```
+cse/
+└── futurefolder/
+    ├── another/
     │   ├── file1
     │   └── file2
+    ├── .gitignore
+    ├── index.md
+    ├── README.md
     └── folder4/
         ├── file3
         └── file4
 ```
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
+[.gitignore](/.gitignore)
+[index.md](/index.md)
+[README.md](/README.md)
 
 ## Creator
 
 **Sebastian W Pamudji**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/sswwpp>
